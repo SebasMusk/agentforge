@@ -1,0 +1,44 @@
+[
+  {
+    "userId": "selftest-user",
+    "tokensInput": 92,
+    "tokensOutput": 9,
+    "cost": 0.000595,
+    "timestamp": "2025-11-06T10:41:02.070Z"
+  },
+  {
+    "userId": "selftest-user",
+    "tokensInput": 1234,
+    "tokensOutput": 567,
+    "cost": 0.014675,
+    "timestamp": "2025-11-06T10:41:02.074Z"
+  },
+  {
+    "userId": "selftest-user",
+    "tokensInput": 92,
+    "tokensOutput": 9,
+    "cost": 0.000595,
+    "timestamp": "2025-11-06T10:41:08.130Z"
+  },
+  {
+    "userId": "selftest-user",
+    "tokensInput": 1234,
+    "tokensOutput": 567,
+    "cost": 0.014675,
+    "timestamp": "2025-11-06T10:41:08.134Z"
+  },
+  {
+    "userId": "selftest-user",
+    "tokensInput": 92,
+    "tokensOutput": 9,
+    "cost": 0.000595,
+    "timestamp": "2025-11-06T10:41:23.414Z"
+  },
+  {
+    "userId": "selftest-user",
+    "tokensInput": 1234,
+    "tokensOutput": 567,
+    "cost": 0.014675,
+    "timestamp": "2025-11-06T10:41:23.420Z"
+  }
+]
